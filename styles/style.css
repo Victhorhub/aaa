@@ -1,0 +1,24 @@
+*{
+    margin: 10px;
+}
+/*bloque principal*/
+#contenido{
+    text-align:left;
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
+#option{
+    width: 200px;
+    margin-left: 10px;
+}
+#boton{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/* pie de pagina */
+.pieP{
+    background-color: cornflowerblue;
+    margin-top: 680px;
+    text-align: center;
+}
